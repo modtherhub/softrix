@@ -65,7 +65,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="mt-10 border-t py-10 border-neutral-700">
-      <h3 className="text-md font-sm mb-4">© 2024 Softrix - Transforming Ideas Into Digital Reality</h3>
+      <h3 className="text-md font-sm mb-4">&copy; 2024 Softrix - Transforming Ideas Into Digital Reality</h3>
       </div>
     </footer>
   );
