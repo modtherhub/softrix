@@ -16,7 +16,7 @@ const Navbar = () => {
 
         <div className="flex justify-between items-center">
           <div className="flex items-center flex-shrink-0">
-            <img className="h-10 w-10 mr-2 hover:scale-150 transition-all" src={logo} alt="Logo" />
+            <img className="h-8 w-8 mr-2 hover:scale-110 transition-all" src={logo} alt="Logo" />
             <span className="text-xl tracking-tight">Softrix</span>
           </div>
 
